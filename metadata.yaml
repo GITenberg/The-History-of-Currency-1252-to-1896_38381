@@ -1,0 +1,31 @@
+_repo: The-History-of-Currency-1252-to-1896_38381
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, William Arthur
+    alias: Shaw, W. A. (William Arthur)
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '39433'
+    url: http://www.gutenberg.org/2009/agents/39433
+description: From the commencement of gold coinages to the discovery of America, 1252-1492
+  -- From the discovery of America to the end of the first cycle of the influence
+  of the metals of the new world on European currencies, 1493-1660 -- From the end
+  of the first cycle of American influences to the present day, 1660-1894.
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38381'
+  lccn: '67020086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Money -- History'
+- !lcc 'HG'
+title: The History of Currency, 1252 to 1896
+url: http://www.gutenberg.org/ebooks/38381
